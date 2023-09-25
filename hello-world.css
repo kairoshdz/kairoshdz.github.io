@@ -1,0 +1,11 @@
+h1 {color:darkorange}
+h1 {background-color:rgb(107, 13, 13)}
+h2 {color:gainsboro}
+h3 {color:gainsboro}
+h4 {color:gainsboro}
+h5 {color:gainsboro}
+h2, h3, h4, h5 {font-size: 150%;}
+li {color: darkorange}
+li {background-color:lightgoldenrodyellow}
+p {color:darkorange}
+p {background-color:lightgoldenrodyellow}
