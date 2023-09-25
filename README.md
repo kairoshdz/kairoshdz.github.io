@@ -2,7 +2,7 @@
 
 ## Instructions
 All pictures and files should be included in the zip file this project was downloaded from,
-(including index.html, hello-world.css, cristo-rey.jpg, and webicon.png).
+(including index.html, hello-world.css, me.png, and webicon.png).
 
 ## Author
 Erick Hernandez [erickdhernandez@lewisu.edu](mailto:erickdhernandez@lewisu.edu)
